@@ -57,6 +57,6 @@ The system is modeled as a Markov Decision Process (MDP):
 - Stability Index
 - Priority fairness score
 - Time spent in critical mode
-- 
+  
 
 
